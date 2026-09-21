@@ -1,0 +1,6 @@
+{
+  "name": "Resto365 - Quản Trị Nhà Hàng & F&B",
+  "description": "Nền tảng all-in-one quản lý F&B tương tự Restaurant365: Kế toán nhà hàng, Quản lý kho hao hụt, Định lượng công thức Recipe Costing và Quản lý nhân sự ca kíp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
